@@ -25,13 +25,6 @@ This is a simple Weather App built using **HTML**, **CSS**, and **JavaScript**. 
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot](screenshot.png)
-
-*(Add a screenshot of your app here if you want)*
-
----
 
 ## ⚙️ How to Use
 
